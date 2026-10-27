@@ -4,9 +4,8 @@ class Solution {
         String str = ".";
         grid[0] = str.repeat(n);
         str = "#";
-        for(int i=1;i<m;i++) 
-            grid[i] = str.repeat(n-1) + ".";
-        
+        str = str.repeat(n-1) + ".";
+        for(int i=1;i<m;i++) grid[i] = str;
         return grid;
     }
 }

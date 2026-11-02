@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/toshniwal-keshav-codes/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/toshniwal-keshav-codes/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/toshniwal-keshav-codes/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/toshniwal-keshav-codes/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
@@ -62,4 +63,9 @@
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/toshniwal-keshav-codes/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/toshniwal-keshav-codes/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Sorting
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/toshniwal-keshav-codes/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
